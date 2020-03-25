@@ -6,7 +6,7 @@ php:
 
 branches:
   only:
-    - commandReconize
+    - master
 
 install:
   - composer install
